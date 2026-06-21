@@ -2,7 +2,7 @@
 
 Prototype program berbasis Java GUI (Swing) yang merekomendasikan mata kuliah untuk Kartu Rencana Studi (KRS) mahasiswa berdasarkan graf kurikulum, prasyarat akademik, dan jatah SKS. Proyek ini mengimplementasikan konsep **Directed Acyclic Graph (DAG)** dan algoritma **Greedy** menggunakan *Priority Queue*.
 
-**Studi Kasus:** Kurikulum Program Studi Sains Data tahun akademik 2023/2024, Universitas Sebelas Maret (UNS).
+**Studi Kasus:** Kurikulum Program Studi Sains Data tahun akademik 2023/2024, Universitas Sebelas Maret.
 <img width="1024" height="674" alt="image" src="https://github.com/user-attachments/assets/ac867527-45ec-4464-8f49-4ecee5f13797" />
 
 ## Main Features
@@ -53,5 +53,7 @@ Teori Graf dan Struktur Data yang diimplementasikan pada program ini:
 
 <img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/cc92d191-39a6-41be-89bb-fbb3e7dd7aea" />
 
-Developed as a final project for Data Structure and Algorithm & Discrete Math.
+Linambaran Faradha Qisthas (L0224022)
+Farrel Naufal Maghribi (L0224031)
+Developed as a final project for Data Structure and Algorithm & Discrete Math, Sebelas Maret University.
 
