@@ -53,7 +53,8 @@ Teori Graf dan Struktur Data yang diimplementasikan pada program ini:
 
 <img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/cc92d191-39a6-41be-89bb-fbb3e7dd7aea" />
 
-Linambaran Faradha Qisthas (L0224022)
-Farrel Naufal Maghribi (L0224031)
+<br>
+Linambaran Faradha Qisthas (L0224022) <br>
+Farrel Naufal Maghribi (L0224031) <br>
 Developed as a final project for Data Structure and Algorithm & Discrete Math, Sebelas Maret University.
 
