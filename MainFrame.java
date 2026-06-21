@@ -221,7 +221,7 @@ public class MainFrame extends JFrame {
         Integer[] sem = {1, 2, 3, 4, 5, 6, 7, 8};
         comboSemester = new JComboBox<>(sem);
         panelProfil.add(comboSemester);
-        panelProfil.add(new JLabel(" IPK Semester Lalu (misal: 1.9):"));
+        panelProfil.add(new JLabel(" IP Semester Lalu (misal: 1.9):"));
         fieldIpk = new JTextField();
         panelProfil.add(fieldIpk);
 
