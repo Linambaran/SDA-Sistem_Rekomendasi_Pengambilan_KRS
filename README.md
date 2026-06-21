@@ -3,6 +3,7 @@
 Prototype program berbasis Java GUI (Swing) yang merekomendasikan mata kuliah untuk Kartu Rencana Studi (KRS) mahasiswa berdasarkan graf kurikulum, prasyarat akademik, dan jatah SKS. Proyek ini mengimplementasikan konsep **Directed Acyclic Graph (DAG)** dan algoritma **Greedy** menggunakan *Priority Queue*.
 
 **Studi Kasus:** Kurikulum Program Studi Sains Data tahun akademik 2023/2024, Universitas Sebelas Maret (UNS).
+<img width="1024" height="674" alt="image" src="https://github.com/user-attachments/assets/ac867527-45ec-4464-8f49-4ecee5f13797" />
 
 ## Main Features
 
