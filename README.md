@@ -37,4 +37,20 @@ Teori Graf dan Struktur Data yang diimplementasikan pada program ini:
 
 1. *Clone* repositori ini:
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/SDA-Sistem_Rekomendasi_Pengambilan_KRS.git](https://github.com/USERNAME_KAMU/SDA-Sistem_Rekomendasi_Pengambilan_KRS.git)
+   git clone https://github.com/Linambaran/SDA-Sistem_Rekomendasi_Pengambilan_KRS.git
+2. Change directory (cari direktori clone):
+   ```bash
+   cd SDA-Sistem_Rekomendasi_Pengambilan_KRS
+3. Compile program:
+   ```bash
+   javac MainFrame.java
+4. Run:
+   ```bash
+   java MainFrame
+
+## Screenshot Program
+
+<img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/cc92d191-39a6-41be-89bb-fbb3e7dd7aea" />
+
+Developed as a final project for Data Structure and Algorithm & Discrete Math.
+
